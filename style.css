@@ -4,6 +4,7 @@ body {
   padding: 0;
   font-family: system, "Helvetica Neue", Helvetica, Arial;
   font-size: 13px;
+  /* min-width: 976px; */
   overflow: hidden;
   height: 100%;
 }
