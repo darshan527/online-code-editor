@@ -30,6 +30,7 @@ ul#langlist li {
   width: 50px;
   margin-right: 5px;
   text-align: center;
+  line-height: 30px;
 }
 
 .toggle {
