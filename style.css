@@ -28,13 +28,20 @@ body {
   text-align: center;
   line-height: 30px;
 }
-
+/* 
 #listcover {
   display: flex;
   justify-content: center;
+  padding: 30px;
   background-color: red;
   border: 2px;
-  border-radius: 5px;
+  border-radius: 10px;
+} */
+
+#langlist {
+  display: flex;
+  justify-content: space-evenly;
+  background-color: red;
 }
 
 .toggle {
