@@ -38,12 +38,6 @@ body {
   border-radius: 10px;
 } */
 
-#langlist {
-  display: flex;
-  justify-content: space-evenly;
-  background-color: red;
-}
-
 .toggle {
   color: tomato;
 }
