@@ -53,4 +53,17 @@ body {
 .editorsdiv {
   display: flex;
   flex-flow: row;
+  /* padding-left: 100px; */
+  justify-content: space-between;
+}
+
+.editors label {
+  display: flex;
+  flex-flow: row;
+  justify-content: center;
+}
+
+textarea {
+  display: flex;
+  width: 100%;
 }
