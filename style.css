@@ -29,6 +29,10 @@ body {
   line-height: 30px;
 }
 
+#langlist li:hover {
+  background-color: orange;
+}
+
 #listcover ul {
   display: flex;
   justify-items: center;
