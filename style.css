@@ -93,5 +93,4 @@ button {
 #buttondiv {
   display: flex;
   flex-direction: row;
-  justify-items: center;
 }
