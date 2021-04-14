@@ -54,7 +54,7 @@ body {
   display: flex;
   flex-flow: row;
   /* padding-left: 100px; */
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 
 .editors label {
@@ -69,4 +69,8 @@ textarea {
 }
 #result {
   width: 100%;
+}
+label {
+  background-color: brown;
+  line-height: 2em;
 }
