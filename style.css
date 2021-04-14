@@ -28,7 +28,8 @@ body {
   line-height: 30px;
 }
 
-#langlist li:hover {
+#langlist li:hover,
+button:hover {
   background-color: orange;
   color: black;
   border: 2px;
@@ -84,4 +85,13 @@ header {
 
 button {
   float: left;
+  width: 40px;
+  height: 20px;
+  background-color: gray;
+}
+
+#buttondiv {
+  display: flex;
+  flex-direction: row;
+  justify-items: center;
 }
