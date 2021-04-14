@@ -15,7 +15,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  background-color: aqua;
+  background-color: beige;
   width: 100%;
   height: auto;
 }
@@ -73,4 +73,15 @@ textarea {
 label {
   background-color: brown;
   line-height: 2em;
+}
+
+header {
+  text-align: center;
+  font-size: large;
+  color: #333;
+  background-color: beige;
+}
+
+button {
+  float: left;
 }
