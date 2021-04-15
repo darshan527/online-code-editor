@@ -43,10 +43,10 @@ button:hover {
   border: 2px;
   border-radius: 5px;
 }
-#listcover {
+/* #listcover {
   display: flex;
   justify-content: center;
-}
+} */
 
 .toggle {
   color: tomato;
