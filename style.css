@@ -9,15 +9,14 @@ body {
   height: 100%;
 }
 
-/* .topbar {
-
+.topbar {
   display: flex;
   flex-direction: row;
-  justify-content: center;
+  /* justify-content: center; */
   background-color: beige;
   width: 100%;
   height: auto;
-} */
+}
 #langlist li {
   float: left;
   list-style: none;
@@ -75,7 +74,11 @@ label {
   line-height: 2em;
 }
 
-div header {
+#header {
+  display: flex;
+  justify-content: left;
+  align-items: center;
+  width: 10em;
   text-align: left;
   font-size: large;
   color: #333;
@@ -91,5 +94,6 @@ button {
 
 #buttondiv {
   display: flex;
-  flex-direction: row;
+  justify-content: right;
+  align-items: center;
 }
